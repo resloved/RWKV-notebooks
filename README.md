@@ -2,6 +2,12 @@
 
 Notebooks related to [RWKV](https://github.com/BlinkDL/RWKV-LM) – a Parallelizable RNN
 
+## Inference:
+
+### [RWKV LangChain](https://colab.research.google.com/github/resloved/RWKV-notebooks/blob/master/RWKV_LangChain.ipynb)
+
+A demo for using the LangChain wrapper with RWKV
+
 ## Fine-tuning:
 
 The goal for these notebooks is to simplify fine-tuning of the RWKV models trained by [BlinkDL](https://github.com/BlinkDL) on the Pile
