@@ -4,6 +4,10 @@ Notebooks related to [RWKV](https://github.com/BlinkDL/RWKV-LM) – a Paralleliz
 
 ## Inference:
 
+### [ChatRWKV](https://colab.research.google.com/github/resloved/RWKV-notebooks/blob/master/RWKV_ChatRWKV.ipynb)
+
+A demo of ChatRWKV
+
 ### [RWKV LangChain](https://colab.research.google.com/github/resloved/RWKV-notebooks/blob/master/RWKV_LangChain.ipynb)
 
 A demo for using the LangChain wrapper with RWKV
